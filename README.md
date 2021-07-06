@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sashasup1312
-- 👀 I’m interested in Linux, bash, ansible.
+- 👀 I’m interested in Linux, bash, ansible, python.
 
 
 <!---
